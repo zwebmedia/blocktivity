@@ -21,9 +21,15 @@ The Scorum (scorumcoins.com) team had the kindness to work on a demo and I'm ver
 I'm creating the database structure. 
 I'm also learning Express, JS, NODE to writing the first scripts that will read the blockchain blocks, websites and APIs to fill the database. You can have a look at the information on the data I want to collect in the file "DATA_DB.md"
 
+### Important documents (These docs are made to be edited by anyone!) 
+
+- [TODO_LIST.md](https://github.com/EstefanTT/blocktivity.old/blob/master/TODO_LIST.md) 
+- [IDEAS.md](https://github.com/EstefanTT/blocktivity.old/blob/master/IDEAS.md)   
+- [DATA_DB.md](https://github.com/EstefanTT/blocktivity.old/blob/master/DATA_DB.md)   
+
 ### What can you do ? 
 
-Have a look at the "TODO_LIST.md" file
+Have a look at the "TODO_LIST.md" file. Suggest an idea (IDEAS.md) or think about what kind of data would be nice to add into the Bocktivity database (DATA_DB.md) for later charts, tables or analysis. 
 
 ### Communication 
 
