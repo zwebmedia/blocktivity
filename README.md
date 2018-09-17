@@ -18,7 +18,12 @@ After a long discussion on the matter, the conclusion is that JavaScript will be
  
 The Scorum (scorumcoins.com) team had the kindness to work on a demo and I'm very impressed by what they have done. You'll find the images and video of this demo in the docs/ directory. 
 
-There is some part of the old PHP in the docs/ directory. I've pasted them there so we can have access to the way I gathered the number of  operation/24h.
+I'm creating the database structure. 
+I'm also learning Express, JS, NODE to writing the first scripts that will read the blockchain blocks, websites and APIs to fill the database. You can have a look at the information on the data I want to collect in the file "DATA_DB.md"
+
+### What can you do ? 
+
+Have a look at the "TODO_LIST.md" file
 
 ### Communication 
 
