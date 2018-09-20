@@ -13,7 +13,7 @@ The structure needs to be flexible enough to manage effectively the data. The da
 
 For each blockchain, we need a script that will extract all the data from the X blocks produced during the timelapse between two script iterations. 
 
-##### Create Node scripts that will webites and APIs
+##### Create Node scripts that will read webites and APIs
 
 - Read CoinMarketCap (CMC) public API and get all the information price, supply, 24% change, ...
 - Read CMC individual blockchain pages and extract more info (website and block explorer URL, twitter, active markets, ...)
