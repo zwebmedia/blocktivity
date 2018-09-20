@@ -50,6 +50,8 @@ I will collect this information mainly by reading blockchain blocks every XX min
 - Relevant info in memo (if memo are used for a genaral purpose) 
 - Price change over 24h / 7 days / 1 month / 1 year
 - Fee used in coin and $
+- Large movment of crypto  (between private account, from or towards Exchanges)
+- 
 - 
 
 ## General Data
