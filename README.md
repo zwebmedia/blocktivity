@@ -24,7 +24,7 @@ I'm also learning Express, JS, NODE to writing the first scripts that will read 
 ### Important documents (These docs are made to be edited by anyone!) 
 
 - [TODO_LIST.md](https://github.com/EstefanTT/blocktivity.old/blob/master/TODO_LIST.md) 
-- [IDEAS.md](https://github.com/EstefanTT/blocktivity.old/blob/master/IDEAS.md)   
+- [IDEAS.md](https://github.com/EstefanTT/blocktivity/blob/master/TODO_LIST.md)   
 - [DATA_DB.md](https://github.com/EstefanTT/blocktivity.old/blob/master/DATA_DB.md)   
 
 ### What can you do ? 
