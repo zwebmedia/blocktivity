@@ -29,7 +29,7 @@ I'm also learning Express, JS, NODE to writing the first scripts that will read 
 
 ### What can you do ? 
 
-Have a look at the [TODO_LIST.md](https://github.com/EstefanTT/blocktivity/blob/master/TODO_LIST.md) file. Suggest an idea ([IDEAS.md](https://github.com/EstefanTT/blocktivity/blob/master/TODO_LIST.md)) or think about what kind of data would be nice to add into the Bocktivity database ([DATA_DB.md](https://github.com/EstefanTT/blocktivity/blob/master/DATA_DB.md) ]) for later charts, tables or analysis. 
+Have a look at the [TODO_LIST.md](https://github.com/EstefanTT/blocktivity/blob/master/TODO_LIST.md) file. Suggest an idea ([IDEAS.md](https://github.com/EstefanTT/blocktivity/blob/master/TODO_LIST.md)) or think about what kind of data would be nice to add into the Bocktivity database ([DATA_DB.md](https://github.com/EstefanTT/blocktivity/blob/master/DATA_DB.md)) for later charts, tables or analysis. 
 
 ### Communication 
 
