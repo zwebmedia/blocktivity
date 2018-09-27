@@ -51,7 +51,7 @@ I will collect this information mainly by reading blockchain blocks every XX min
 - Price change over 24h / 7 days / 1 month / 1 year
 - Fee used in coin and $
 - Large movment of crypto  (between private account, from or towards Exchanges)
-- 
+- Supply in circulation % (account supply that haven't been moved in a while)
 - 
 
 ## General Data
