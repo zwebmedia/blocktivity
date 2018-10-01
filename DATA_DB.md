@@ -57,6 +57,8 @@ I will collect this information mainly by reading blockchain blocks every XX min
 ## General Data
 
 - Global crypto market cap
-- 
+- Volume exchanged $
+- BTC dominance
+- Number of Cryptos
 - 
 
