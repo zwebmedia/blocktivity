@@ -7,4 +7,5 @@
 - Monitor the volume ($) of transfer on chain. [ @EstefanTT ]
 - Monitor the number of "pure transfer" from account A to B (not operations). [ @EstefanTT ]
 - Monitor the fee by transfer and estimated cost of maintaining the chain. 
+- Display the change in activity and moves in ranking
 - 
