@@ -23,41 +23,12 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
 //**********************************************************************
-//**********************************************************************
-
-//var test_op = require("./test_op.js");
-//test_op.test();
-
-var mysql = require('mysql');
-
-var con = mysql.createConnection({
-  host: "localhost",
-  user: "phpmyadmin",
-  password: "3333",
-  database: "home_station_db"
-});
-
-var a = Date.now();
-var b = "data_x";
-var c = "data_y";
-
-
-con.connect(function(err) {
-    if (err) throw err;
-    console.log("Connected!");
-    var sql = "INSERT INTO test (ts, data1, data2) VALUES (a, b, c)";
-    con.query(sql, function (err, result) {
-      if (err) throw err;
-      console.log("1 record inserted");
-    });
-  })
-
+//******************************************************** working space
 
 var test = () => {console.log("hello")};
 setInterval(test, 1000);
 
-
-//**********************************************************************
+//******************************************************* /working space
 //**********************************************************************
 
 // catch 404 and forward to error handler
