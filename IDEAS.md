@@ -8,4 +8,4 @@
 - Monitor the number of "pure transfer" from account A to B (not operations). [ @EstefanTT ]
 - Monitor the fee by transfer and estimated cost of maintaining the chain. 
 - Display the daily/weekly change in activity and moves in ranking 
-- 
+- Display a chart of transactions historical data [ @zwebmedia1 ]
